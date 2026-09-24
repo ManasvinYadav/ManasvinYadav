@@ -79,7 +79,12 @@ func main() {
 ### <samp>~/projects</samp>
 
 <!-- projects:start -->
-<p align="center"><sub>Project cards appear here after the first workflow run.</sub></p>
+<p align="center">
+  <a href="https://github.com/ManasvinYadav/Lucid"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManasvinYadav/ManasvinYadav/output/project-1-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManasvinYadav/ManasvinYadav/output/project-1-light.svg"><img alt="Lucid: Looks asleep. Isn&#39;t. — keeps your Mac awake with the lid shut while an AI coding agent is working, and lets it sleep the moment it&#39;s only waiting for you." src="https://raw.githubusercontent.com/ManasvinYadav/ManasvinYadav/output/project-1-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/ManasvinYadav/swrm"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManasvinYadav/ManasvinYadav/output/project-2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManasvinYadav/ManasvinYadav/output/project-2-light.svg"><img alt="swrm: Local-first BitTorrent TUI with a VPN kill-switch and in-app streaming." src="https://raw.githubusercontent.com/ManasvinYadav/ManasvinYadav/output/project-2-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/ManasvinYadav/lantern"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManasvinYadav/ManasvinYadav/output/project-3-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManasvinYadav/ManasvinYadav/output/project-3-light.svg"><img alt="lantern: Beta · Self-hosted status dashboard for a homelab. Mount the Docker socket and your containers show up on their own; push heartbeats for anything else. One Go binary, SQLite, no CGO." src="https://raw.githubusercontent.com/ManasvinYadav/ManasvinYadav/output/project-3-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/ManasvinYadav/lantern-react"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManasvinYadav/ManasvinYadav/output/project-4-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManasvinYadav/ManasvinYadav/output/project-4-light.svg"><img alt="lantern-react: Self-hosted uptime &amp; service status dashboard — Docker discovery, HTTP/TCP/ping monitors, live WebSocket updates, webhook alerts. (Beta)" src="https://raw.githubusercontent.com/ManasvinYadav/ManasvinYadav/output/project-4-light.svg" width="49%"></picture></a>
+</p>
 <!-- projects:end -->
 
 ### <samp>~/contact</samp>
