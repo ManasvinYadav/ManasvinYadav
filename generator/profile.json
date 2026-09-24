@@ -1,0 +1,33 @@
+{
+  "login": "ManasvinYadav",
+  "name": "Manasvin Yadav",
+  "repository": "ManasvinYadav/ManasvinYadav",
+  "outputBranch": "output",
+  "hero": {
+    "prompt": "~/manasvin",
+    "tagline": "Student · part-time larper · Go & TypeScript",
+    "chips": [
+      { "label": "Go", "color": "#00ADD8" },
+      { "label": "TypeScript", "color": "#3178C6" },
+      { "label": "Linux", "color": "#FCC624" },
+      { "label": "India", "icon": "location" }
+    ],
+    "terminal": {
+      "title": "manasvin — zsh",
+      "command": "go run ./manasvin",
+      "output": [
+        "✓ curiosity     loaded",
+        "✓ caffeine      linked",
+        "✓ larp mode     part-time",
+        "→ shipping clean, fast code"
+      ]
+    }
+  },
+  "stack": [
+    { "group": "Languages", "items": ["go", "typescript", "javascript", "html5", "css"] },
+    { "group": "Tooling", "items": ["linux", "docker", "git"] }
+  ],
+  "contact": { "label": "Say hello" },
+  "projects": { "max": 4, "hide": [] },
+  "hideLanguages": []
+}

@@ -1,0 +1,4 @@
+# Cards rendered locally by the generator; CI publishes them to the output branch.
+/dist/
+# go build output
+/generator/generator
